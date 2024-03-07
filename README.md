@@ -17,4 +17,5 @@ Insert screenshots or GIFs showcasing the responsive design on different devices
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rshvraj/your-repository.git
+   git clone https://github.com/rshvraj/simplotel.git
+
